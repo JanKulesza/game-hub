@@ -61,8 +61,7 @@ Make sure you have the following installed:
     ```bash
     yarn dev
     ```
-This will start the application, and you can view it in your browser at http://localhost:PORT.
-
+    This will start the application, and you can view it in your browser at http://localhost:PORT.
 ## Building for Production
 To build the application for production:
     ```bash
