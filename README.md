@@ -30,7 +30,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 Make sure you have the following installed:
 
 - **Node.js** (v14 or above)
-- **npm** or **yarn**
+- **npm**
 
 ### Installation
 
@@ -50,26 +50,16 @@ Make sure you have the following installed:
     ```bash
     npm install
     ```
-    or
-    ```bash
-    yarn install
-    ```
 ### To run the application in development mode:
-    ```bash
-    npm run dev
-    ```
-    ```bash
-    yarn dev
-    ```
-    This will start the application, and you can view it in your browser at http://localhost:PORT.
+```bash
+npm run dev
+```
+
+This will start the application, and you can view it in your browser at http://localhost:PORT.
 ## Building for Production
 To build the application for production:
     ```bash
     npm run build
-    ```
-    or
-    ```bash
-    yarn build
     ```
 This will create an optimized build of the application in the dist directory.
 ## Deploying
