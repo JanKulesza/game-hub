@@ -47,17 +47,13 @@ Make sure you have the following installed:
     ```
     
 3.  Install dependencies:
-    
     ```bash
     npm install
     ```
-    
     or
-    
     ```bash
     yarn install
     ```
-    
 ### To run the application in development mode:
     
     ```bash
