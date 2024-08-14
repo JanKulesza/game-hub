@@ -55,33 +55,24 @@ Make sure you have the following installed:
     yarn install
     ```
 ### To run the application in development mode:
-    
     ```bash
     npm run dev
     ```
-    
     ```bash
     yarn dev
     ```
-    
-    This will start the application, and you can view it in your browser at http://localhost:PORT.
-    
-## Building for Production
+This will start the application, and you can view it in your browser at http://localhost:PORT.
 
+## Building for Production
 To build the application for production:
-    
     ```bash
     npm run build
     ```
-    
     or
-    
     ```bash
     yarn build
     ```
-    
-    This will create an optimized build of the application in the dist directory.
-    
+This will create an optimized build of the application in the dist directory.
 ## Deploying
 
 The project is already configured to be deployed on Vercel. You can deploy it by connecting your GitHub repository to Vercel.
