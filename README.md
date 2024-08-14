@@ -58,8 +58,6 @@ or
     yarn install
     ```
 
-4.  Running the Application
-
 ### To run the application in development mode:
 
     ```bash
